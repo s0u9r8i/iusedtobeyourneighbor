@@ -2,7 +2,7 @@ window.PIGEON_PLACEMENTS = [
   {
     "id": 1,
     "name": "FEATHER",
-    "inventory": 1,
+    "inventory": 0,
     "image": "https://cdn.shopify.com/s/files/1/2263/4647/files/PB_website_01.png?v=1781807379",
     "col": 13,
     "row": 16,
