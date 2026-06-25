@@ -20,7 +20,7 @@ window.PIGEON_PLACEMENTS = [
   {
     "id": 3,
     "name": "SUSAN",
-    "inventory": 1,
+    "inventory": 0,
     "image": "https://cdn.shopify.com/s/files/1/2263/4647/files/PB_website_03.png?v=1781981288",
     "col": 12,
     "row": 20,
